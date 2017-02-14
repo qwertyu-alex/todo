@@ -1,0 +1,16 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": "Alexander Van Le",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
+}
